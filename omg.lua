@@ -1,5 +1,4 @@
 gamelist = {
-[537413527] = true,
-[321321] = true
+[537413526],
 }
 return gamelist
